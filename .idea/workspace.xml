@@ -1,26 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d4d0d37-1f9c-4f57-804a-860afff2e5ef" name="Default Changelist" comment="" />
+    <list default="true" id="9d4d0d37-1f9c-4f57-804a-860afff2e5ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../884721-readme-9/templates/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/../884721-readme-9/templates/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../884721-readme-9/templates/message.php" beforeDir="false" afterPath="$PROJECT_DIR$/../884721-readme-9/templates/message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../884721-readme-9/templates/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/../884721-readme-9/templates/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/papiroska.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/papiroska.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTubeVideo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1RhipLEVbNEh1v0Kvf6iQ4lSLko" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop/public/index.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../modules/git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,6 +75,13 @@
       <updated>1570125909800</updated>
       <workItem from="1570125910938" duration="7215000" />
       <workItem from="1570205685146" duration="12344000" />
+      <workItem from="1570278987186" duration="3223000" />
+      <workItem from="1570567072123" duration="418000" />
+      <workItem from="1570567579512" duration="7000" />
+      <workItem from="1570888509343" duration="28000" />
+      <workItem from="1570888603612" duration="19835000" />
+      <workItem from="1570978680623" duration="2748000" />
+      <workItem from="1570987003855" duration="1871000" />
     </task>
     <servers />
   </component>
